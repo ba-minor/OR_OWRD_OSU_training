@@ -9,6 +9,7 @@ dependencies:
   - pyarrow>=22.0.0
   - numpy>=2.3.3
   - openpyxl>=3.1.5
+  - seaborn>=0.13.2
   - matplotlib>=3.10.6
   - contextily>=1.6.2
   - requests>=2.32.5

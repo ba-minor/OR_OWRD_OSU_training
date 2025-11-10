@@ -98,7 +98,7 @@ conda create -n py311 python=3.11
 
 conda activate py311
 
-conda install -c conda-forge geopandas pandas jupyterlab matplotlib folium requests pyarrow duckdb seaborn contextily py7zr
+conda install -c conda-forge geopandas pandas numpy jupyterlab matplotlib folium requests pyarrow duckdb seaborn contextily py7zr openpyxl
 ```
 
 Start Jupyter Lab after activating your environment and installing all packages
