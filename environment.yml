@@ -5,7 +5,12 @@ channels:
 dependencies:
   - geopandas>=1.1.1
   - pandas>=0.23.0
-  - polars>=1.33.1
+  - duckdb>=1.4.1
+  - pyarrow>=22.0.0
+  - numpy>=2.3.3
+  - openpyxl>=3.1.5
+  - matplotlib>=3.10.6
+  - contextily>=1.6.2
   - requests>=2.32.5
   - jupyterlab>=4.4.7
   - folium>=0.20.0
